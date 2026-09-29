@@ -135,15 +135,6 @@ https://github.com/SagarAli762/ph-assignment-5-dev-stack
 
 ---
 
-## 📚 Book Library — Next.js
-
-A modern book library application built with Next.js featuring book cards, dynamic book details, API/data fetching, and responsive UI.
-
-**Technologies:**
-`Next.js` `React` `TypeScript` `Tailwind CSS`
-
----
-
 ## 🏋️ FitLog — Workout Library
 
 A modern dark-themed workout library application for exploring exercises and workout information.
@@ -151,6 +142,11 @@ A modern dark-themed workout library application for exploring exercises and wor
 **Technologies:**
 `Next.js` `React` `Tailwind CSS` `daisyUI` `React Icons`
 
+🌐 **Live Demo:**  
+[https://ph-assignment-5-dev-stack.netlify.app/](https://ph-assignment-6-dev-stack.vercel.app/)
+
+💻 **GitHub Repository:**  
+[https://github.com/SagarAli762/ph-assignment-5-dev-stack](https://github.com/SagarAli762/ph-assignment-6-dev-stack)
 ---
 
 # 📚 Currently Learning
