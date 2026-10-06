@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.ibb.co.com/TMq9DY7Y/ab2dc118-75bb-4e11-bc5e-82578d12b3eb.png" alt="Md. Sagar Ali - Frontend Developer" width="100%" />
+<img src="https://i.ibb.co.com/GQK1Lkks/front.png" alt="Md. Sagar Ali - Frontend Developer" width="100%" />
 
 </div>
 
