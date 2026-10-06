@@ -1,23 +1,50 @@
-# 👋 Hi, I'm Md. Sagar Ali
+<!-- ===================== BANNER ===================== -->
 
-## 🚀 AI-Driven Full-Stack Web Developer in Progress
+<div align="center">
 
-I'm an aspiring **AI-Driven Full-Stack Web Developer** currently learning and building modern web applications with JavaScript, TypeScript, React, Next.js, and other full-stack technologies.
+<img src="./banner.png" alt="Md. Sagar Ali - Frontend Developer" width="100%" />
 
-I'm passionate about learning new technologies, solving problems, and turning ideas into responsive and user-friendly web applications.
+</div>
 
-- 🌱 Currently learning **AI-Driven Full-Stack Web Development**
-- 💻 Currently focusing on **React, Next.js & TypeScript**
-- 🤖 Interested in **AI Integration & AI-Assisted Development**
-- 🏗️ Learning **Backend, Database, Authentication & API Integration**
-- 📚 Learning Web Development through **Programming Hero**
-- 🎯 Goal: Become an **AI-Driven Full-Stack Web Developer**
+<br />
+
+<!-- ===================== INTRO ===================== -->
+
+<h1 align="center">👋 Hi, I'm Md. Sagar Ali</h1>
+
+<h3 align="center">
+Frontend Developer | React | Next.js | TypeScript
+</h3>
+
+<p align="center">
+Building modern, responsive and user-friendly web interfaces.
+</p>
 
 ---
 
-# 🛠️ Technologies I'm Learning
+## 👨‍💻 About Me
 
-### 🧱 Foundation
+I'm a passionate **Frontend Developer** focused on building modern, responsive,
+and user-friendly web applications.
+
+I enjoy turning designs and ideas into clean, functional interfaces using
+modern frontend technologies.
+
+- 💻 Focused on **Frontend Development**
+- ⚛️ Building with **React & Next.js**
+- 🟦 Working with **TypeScript**
+- 🎨 Creating responsive UI with **Tailwind CSS**
+- 🧩 Experienced with **daisyUI & Hero UI**
+- 🔐 Learning and implementing **Better Auth**
+- 🤖 Using **AI-Assisted Coding** to improve development workflow
+- 📚 Learning Web Development at **Programming Hero**
+- 🎯 Currently looking for a **Frontend Developer opportunity**
+
+---
+
+## 🛠️ Technologies & Skills
+
+### 🌐 Core Web
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -26,152 +53,212 @@ I'm passionate about learning new technologies, solving problems, and turning id
 - HTML5
 - CSS3
 - JavaScript
-- ES6
+- ES6+
 - Problem Solving
+- DOM
+- BOM
 
 ---
 
-### 🎨 Frontend Development
+### ⚛️ Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
 </p>
 
 - React
-- Tailwind CSS
+- Next.js
 - TypeScript
 - Object-Oriented Programming
-- Next.js
-
----
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-- Node.js
-- Express.js
-- Modular Pattern
-- API Integration
-
----
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-- MongoDB
-- Mongoose / ODM
+- Tailwind CSS
+- Responsive Web Design
 
 ---
 
 ### 🎨 UI Libraries
 
-- Hero UI
-- shadcn/ui
 - daisyUI
+- Hero UI
 - React Icons
 
 ---
 
-### 🔐 Authentication & Security
+### 🔐 Authentication
 
 - Better Auth
-- Role-Based Access Control
-- Authentication & Authorization
+- Authentication Flow
+- Protected Routes
+- Basic Authorization Concepts
 
 ---
 
-### 🧠 Advanced Concepts
+### 🤖 Modern Development
 
-- DOM vs BOM
-- AI Mindset Development
-- AI Integration
 - AI-Assisted Coding
+- AI Mindset Development
+- Using AI for debugging and development
+- Learning modern frontend development workflows
 
 ---
 
-### 💳 Payment & Testing
+## 🚀 Featured Projects
 
-- Stripe
-- SSLCommerz
-- Software Testing
+### 💻 DevStack — Technology Stack Manager
 
----
-
-# 🚀 Featured Projects
-
-## 🍴 Foode — Recipe Discovery Website
-
-A responsive recipe website where users can explore and search for food recipes.
+A responsive web application where users can explore technologies
+and build their own preferred technology stack.
 
 **Technologies:**
-`HTML` `CSS` `JavaScript`
 
-🌐 **Live Demo:**  
-https://interactive-cares-assignment-4.netlify.app/
-
-💻 **GitHub Repository:**  
-https://github.com/SagarAli762/Assignment-4
-
----
-
-## 💻 DevStack — Technology Stack Manager
-
-A responsive technology stack management application where users can explore technologies and build their own preferred development stack.
-
-**Technologies:**
 `React` `TypeScript` `Tailwind CSS` `daisyUI` `React Icons`
 
 🌐 **Live Demo:**  
 https://ph-assignment-5-dev-stack.netlify.app/
 
-💻 **GitHub Repository:**  
+💻 **GitHub:**  
 https://github.com/SagarAli762/ph-assignment-5-dev-stack
 
 ---
 
-## 🏋️ FitLog — Workout Library
+### 🍴 Foode — Recipe Discovery Website
 
-A modern dark-themed workout library application for exploring exercises and workout information.
+A responsive recipe website where users can explore and search
+for different food recipes.
 
 **Technologies:**
-`Next.js` `React` `Tailwind CSS` `daisyUI` `React Icons`
+
+`HTML` `CSS` `JavaScript`
 
 🌐 **Live Demo:**  
-[https://ph-assignment-5-dev-stack.netlify.app/](https://ph-assignment-6-dev-stack.vercel.app/)
+https://interactive-cares-assignment-4.netlify.app/
 
-💻 **GitHub Repository:**  
-[https://github.com/SagarAli762/ph-assignment-5-dev-stack](https://github.com/SagarAli762/ph-assignment-6-dev-stack)
+💻 **GitHub:**  
+https://github.com/SagarAli762/Assignment-4
+
 ---
 
-# 📚 Currently Learning
+### 📚 Book Library
 
-```text
-HTML & CSS
-    ↓
-JavaScript & ES6
-    ↓
-React
-    ↓
-TypeScript
-    ↓
-Next.js
-    ↓
-Node.js & Express.js
-    ↓
-MongoDB & Mongoose
-    ↓
-Authentication & Security
-    ↓
-API Integration
-    ↓
-Payment & Testing
-    ↓
-AI Integration
-    ↓
-AI-Driven Full-Stack Development
+A modern book library application built with Next.js.
+
+The project includes dynamic book pages, responsive UI,
+book information and interactive features.
+
+**Technologies:**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS`
+
+---
+
+### 🏋️ FitLog — Workout Library
+
+A modern responsive workout library application with a
+dark-themed user interface.
+
+Users can explore workouts and manage their workout plans.
+
+**Technologies:**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `daisyUI`
+
+---
+
+## 📚 Currently Improving
+
+- ⚛️ Advanced React
+- ▲ Next.js
+- 🟦 TypeScript
+- 🎨 Advanced UI Development
+- 📱 Responsive Web Design
+- 🔐 Authentication
+- 🧠 Problem Solving
+- 🏗️ Real-World Frontend Architecture
+- 🤖 AI-Assisted Development
+
+---
+
+## 🎯 My Goal
+
+My current goal is to start my career as a **Frontend Developer**
+and contribute to real-world web applications.
+
+I'm continuously improving my skills by building projects,
+solving problems, learning modern technologies, and writing
+clean and maintainable code.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=SagarAli762&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarAli762&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=SagarAli762&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SagarAli762&theme=tokyo-night&hide_border=true"
+/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/SagarAli762">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:mdsagar.webdev@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 💡 My Developer Philosophy
+
+> **Learn → Build → Practice → Improve**
+
+I believe that consistent learning and building real projects
+is the best way to become a better developer.
+
+---
+
+<div align="center">
+
+### 🚀 Let's Build Something Great!
+
+**Thanks for visiting my profile.**
+
+</div>
